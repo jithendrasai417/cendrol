@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cendrol/static/css/main.e6c13ad2.css",
+    "main.js": "/cendrol/static/js/main.b9be1ffe.js",
+    "index.html": "/cendrol/index.html",
+    "main.e6c13ad2.css.map": "/cendrol/static/css/main.e6c13ad2.css.map",
+    "main.b9be1ffe.js.map": "/cendrol/static/js/main.b9be1ffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b9be1ffe.js"
+  ]
+}
